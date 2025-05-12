@@ -1,0 +1,13 @@
+"Kiki" Parts List:
+Mylar sheets (for the inflated envelope and the external one)
+30A ESC
+Arduino Nano
+Transceiver
+Antenna
+Battery
+DC Motor
+Prop
+Fiberglass rods
+Rod Connectors
+Servos
+
